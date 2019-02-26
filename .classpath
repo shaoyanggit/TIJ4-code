@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="swt/|object/|concurrency/|typeinfo/|io/|exceptions/|interfaces/|containers/|polymorphism/|control/|gui/|io/xfiles/|strings/|xml/|annotations/|initialization/|access/|arrays/|enumerated/|holding/|operators/|generics/|innerclasses/|reusing/" kind="src" path="examples"/>
+	<classpathentry kind="src" path="examples/access"/>
+	<classpathentry kind="src" path="examples/annotations"/>
+	<classpathentry kind="src" path="examples/arrays"/>
+	<classpathentry kind="src" path="examples/concurrency"/>
+	<classpathentry kind="src" path="examples/containers"/>
+	<classpathentry kind="src" path="examples/control"/>
+	<classpathentry kind="src" path="examples/enumerated"/>
+	<classpathentry kind="src" path="examples/exceptions"/>
+	<classpathentry kind="src" path="examples/generics"/>
+	<classpathentry kind="src" path="examples/gui"/>
+	<classpathentry kind="src" path="examples/holding"/>
+	<classpathentry kind="src" path="examples/initialization"/>
+	<classpathentry kind="src" path="examples/innerclasses"/>
+	<classpathentry kind="src" path="examples/interfaces"/>
+	<classpathentry excluding="xfiles/" kind="src" path="examples/io"/>
+	<classpathentry kind="src" path="examples/io/xfiles"/>
+	<classpathentry kind="src" path="examples/object"/>
+	<classpathentry kind="src" path="examples/operators"/>
+	<classpathentry kind="src" path="examples/polymorphism"/>
+	<classpathentry kind="src" path="examples/reusing"/>
+	<classpathentry kind="src" path="examples/strings"/>
+	<classpathentry kind="src" path="examples/swt"/>
+	<classpathentry kind="src" path="examples/typeinfo"/>
+	<classpathentry kind="src" path="examples/xml"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
